@@ -1,2 +1,2 @@
-# reciclica-app
+# reciclica-app IONIC
 Aplicativo de reciclagem
